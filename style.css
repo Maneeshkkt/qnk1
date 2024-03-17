@@ -446,8 +446,9 @@ a{
     }
 
     @media (max-width: 420px ){
+        
         .firstsection{
-            height: 75vh;}
+            height: 80vh;}
 
 
     }
